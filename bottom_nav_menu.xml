@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_donor"
+        android:icon="@drawable/ic_baseline_share_24"
+        android:title="Donor" />
+
+    <item
+        android:id="@+id/navigation_Search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings_icon"
+        android:title="Settings" />
+
+</menu>
